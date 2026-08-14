@@ -34,6 +34,7 @@ public class Fan {
     }
 
     // Constructor with parameters to initialize the fan object with specified values for speed, on/off state, radius, and color.
+    @SuppressWarnings("OverridableMethodCallInConstructor")
     public Fan(int speed, boolean on, double radius, String color) {
         setSpeed(speed);
         setOn(on);
