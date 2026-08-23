@@ -46,6 +46,10 @@ Java-for-Programmers/
 │   ├── WadeArrayListTest.class
 │   └── WadeArrayListTest.java
 ├── module-9/
+|   ├── WadeArrayListException.class
+│   ├── WadeArrayListException.java
+│   ├── WadeRandomNumberFile.class
+│   └── WadeRandomNumberFile.java
 ├── module-10/
 │   ├── Division.class
 │   ├── Division.java
