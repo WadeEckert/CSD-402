@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run CourseRegistrationForm",
+            "request": "launch",
+            "mainClass": "CourseRegistrationForm",
+            "vmArgs": "--module-path \"C:/javafx-sdk-26.0.2/lib\" --add-modules javafx.controls"
+        }
+    ]
+}
